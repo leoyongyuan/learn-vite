@@ -4,7 +4,7 @@ export default defineComponent({
 
   name: "JSXButton",
   render() {
-    return <button>JSX Button</button>;
+    return <button>Button</button>;
   },
 
 });
